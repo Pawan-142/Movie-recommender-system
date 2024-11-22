@@ -47,5 +47,3 @@ Follow these steps to set up and run the application:
    ```
 
 **Note**: When running the application for the first time, it may take some time as it creates necessary files and initializes the environment.
-
-Discover the joy of finding your next favorite movie with our Movie Recommender System!
